@@ -17,7 +17,7 @@ export default function Home() {
         flexDirection="row"
         justifyContent="center"
         alignItems="center"
-        p={2}
+        p={5}
         gap={2}
         
         >
